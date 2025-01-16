@@ -1,2 +1,6 @@
 Hii  this is git class
+<<<<<<< HEAD
 hello man I here  
+=======
+Today is git class now going
+>>>>>>> f7f48d7626b4e9b54b0df8644d5a661a13b3980c
