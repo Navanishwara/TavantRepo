@@ -3,4 +3,9 @@ Hii  this is git class
 hello man I here  
 =======
 Today is git class now going
+<<<<<<< HEAD
 >>>>>>> f7f48d7626b4e9b54b0df8644d5a661a13b3980c
+=======
+srikanth is listening class
+
+>>>>>>> 28782e91c9385452ab4b421b40d33fb96de8b512
